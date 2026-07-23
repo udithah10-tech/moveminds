@@ -321,6 +321,8 @@ h1, h2, h3, h4 {
 
 /* Floating hero visual */
 .hero__visual { position: relative; }
+.hero__card .ph { padding-bottom: 60px; }
+.hero__card .ph__note { padding-left: 200px; }
 .hero__card {
   position: relative;
   border-radius: var(--radius-lg);
@@ -341,7 +343,7 @@ h1, h2, h3, h4 {
 }
 .hero__pill {
   position: absolute;
-  left: -26px; bottom: -22px;
+  left: -26px; bottom: -34px;
   background: #fff;
   border-radius: 18px;
   padding: 14px 18px;

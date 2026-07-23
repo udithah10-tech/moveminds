@@ -1,0 +1,10 @@
+{
+  "name": "moveminds",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MoveMinds - static website for GitHub Pages",
+  "scripts": {
+    "dev": "npx --yes serve -l tcp://0.0.0.0:3000 .",
+    "start": "npx --yes serve -l tcp://0.0.0.0:3000 ."
+  }
+}
